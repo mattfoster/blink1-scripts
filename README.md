@@ -8,12 +8,12 @@ Requires
 
 * Ruby 1.9
 * `blink1-tool`. Grab it from [github](https://github.com/todbot/blink1).
-* A config file
+* A config file (see below)
 
 Usage
 -----
 
-Simply run: `imap_blinker`, from the command line, or a cronjob or whatever.
+Simply run: `imap_blinker` from the command line, or a cronjob or whatever.
 
 Config
 ------
